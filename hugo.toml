@@ -1,0 +1,84 @@
+baseURL = 'https://csmarckitus.me/'
+languageCode = 'en-us'
+title = 'CSMarckitus'
+theme = 'typo'
+enableEmoji = true
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-22W66185SE"
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+showFooter = true
+footerContent = "`<end page />`"
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello w0rld!'
+homeIntroContent = """
+I'm Marc, a Spaniard boy often called geek (:joy:), who tries to know and understand what happens inside a computer and how that
+can help to improve other people's live.
+
+I'm passionate about algorithms, UX/UI/IA (not just AI haha), system efficiency, software optimization, 
+and parallel things like programming or how to lead and improve communication in a team of engineers.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 20
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/marc-rofes/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/CSMarckitus"
+
+[[params.social]]
+name = "gitlab"
+url = "https://gitlab.com/marc.rofes"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/marcrofes"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = true
+repo = "CSMarckitus/blog"
+repoid = "R_kgDOM7JICA"
+category = "Ideas"
+categoryid = "DIC_kwDOM7JICM4CjCma"
+mapping = "pathname"
+theme = "preferred_color_scheme"
