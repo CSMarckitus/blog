@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on CSMarckitus</title>
+    <link>https://csmarckitus.me/</link>
+    <description>Recent content in Home on CSMarckitus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2024 16:24:49 +0200</lastBuildDate>
+    <atom:link href="https://csmarckitus.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from an MIT Algebra I Lesson on Math and CS</title>
+      <link>https://csmarckitus.me/posts/lessons-from-mit/</link>
+      <pubDate>Wed, 02 Oct 2024 16:24:49 +0200</pubDate>
+      <guid>https://csmarckitus.me/posts/lessons-from-mit/</guid>
+      <description>&lt;h2 id=&#34;people-dont-understand-rather-choose-to-memorize&#34;&gt;People don&amp;rsquo;t understand, rather choose to memorize&lt;/h2&gt;&#xA;&lt;p&gt;I started watching an MIT Linear Algebra lecture to refresh some math concepts I had forgotten. Within minutes, I realized something surprising: I had never truly understood the core foundations of algebra. I’d been doing the steps, memorizing procedures, but not grasping why.&lt;/p&gt;&#xA;&lt;p&gt;Today, I want to share a simple idea that shifted my perspective completely. It’s not complicated, it’s just about multiplying matrices differently from the rigid, mechanical way we were taught. So, let me show you what blew my mind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://csmarckitus.me/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Sep 2024 15:51:58 +0200</pubDate>
+      <guid>https://csmarckitus.me/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog?&lt;/h1&gt;&#xA;&lt;p&gt;Ever since I was about 8 years old, I’ve been fascinated by computers. I didn’t fully understand what I was doing back then (and, if I’m honest, there’s still a lot I don’t know), but computers have always pushed me to explore the limits of my knowledge. They make me question how the world works, especially how people use them every day without really knowing what goes on behind the screen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
